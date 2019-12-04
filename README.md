@@ -84,8 +84,6 @@ Work on: **Data preprocessing team**.
 
 Project Source code: [Disease Detection Using chest Xray](https://github.com/Iamsdt/Disease-detection-using-chest-xrays)
 
-https://github.com/Iamsdt/anga)
-
 ### Fruit Recognizer
 
 Classify fruit images. This project was done as part of **Secure and Private AI Scholarship Challenge**.
