@@ -4,11 +4,11 @@ Here is collection of all the deep learning projects done my me.
 
 #### At a glace
 
-1. Individual Projects
+1. [Individual Projects](https://github.com/Iamsdt/DeepLearningProjects#individual-projects)
 
-2. Team Projects
+2. [Team Projects](https://github.com/Iamsdt/DeepLearningProjects#team-projects)
 
-3. Personal Notebooks
+3. [Personal Notebooks](https://github.com/Iamsdt/DeepLearningProjects#personal-notebook)
 
 ## Helper Class For Pytorch
 
@@ -144,6 +144,6 @@ Project Source code: [SG Fruit 360](https://github.com/Iamsdt/SPAIC_sg_fruit_360
 
 | Project Name                    | Notebook                                                     | Description                           |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------- |
-| Bengali Text Generator          | https://www.kaggle.com/iamsdt/kernel2bac1c8a68               | Generate text from a book name "Himu" |
-| Character Level LSTM in PyTorch | https://github.com/Iamsdt/60daysofudacity/blob/master/day14/Character_Level_LSTM_in_PyTorch.ipynb | Generate English text                 |
+| Bengali Text Generator          | [Notebook](https://www.kaggle.com/iamsdt/kernel2bac1c8a68)   | Generate text from a book name "Himu" |
+| Character Level LSTM in PyTorch | [Notebook](https://github.com/Iamsdt/60daysofudacity/blob/master/day14/Character_Level_LSTM_in_PyTorch.ipynb) | Generate English text                 |
 
