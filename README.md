@@ -34,7 +34,7 @@ Source code: [Dog App](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/b
 
 Create a neural networks from scratch without using any framework.  The goal of this project is to predict bike sharing for next year. This project is a part of Udacity Deep Learning Nanodegree.
 
-Notebook: [Source code](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/blob/master/Neural Networks/Project1/Your_first_neural_network.ipynb)
+Notebook: [Source code](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/blob/master/Neural%20Networks/Project1/Your_first_neural_network.ipynb)
 
 ### Bengali Digit Recognizer
 
