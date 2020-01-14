@@ -28,13 +28,13 @@ Server Code: [Server Code](https://github.com/Iamsdt/StickerGenerator/tree/maste
 
 The goal of this algorithm is to detect dog breed.  If this algorithm detects human, then it will be predicted which dog breed he or she looks like. Or, if detect dog, then it will be predicted dog breed. This project is a part of Udacity Deep Learning Nanodegree.
 
-Source code: [Dog App](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/blob/master/CNN/Project2/dog_app.ipynb)
+Project: [Dog App](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/blob/master/CNN/Project2/dog_app.ipynb)
 
-### Predict Bike sharing business
+### Predicting Bike-Sharing Patterns
 
-Create a neural networks from scratch without using any framework.  The goal of this project is to predict bike sharing for next year. This project is a part of Udacity Deep Learning Nanodegree.
+The goal of this project is to predict daily bike rental ridership. In this project, neural network was created from scratch using python and the used dataset contains the number of riders for each hour of each day from January 1, 2011, to December 31, 2012.
 
-Notebook: [Source code](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/blob/master/Neural%20Networks/Project1/Your_first_neural_network.ipynb)
+Project: [Source code](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/tree/master/projects/first_neural_network-269560)
 
 ### Bengali Digit Recognizer
 
@@ -43,6 +43,19 @@ A web app where user can draw Bengali digit and the AI model can detect handwrit
 Project Source code: [DeployBNDegit](https://github.com/Iamsdt/DeployBNDegit)
 
 Notebook: [BN digit with pytorch](https://www.kaggle.com/iamsdt/bn-digit-with-pytorch)
+
+### TV Script Generation
+
+In this project, Seinfeld TV scripts was generated using RNNs. You'll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network you'll build will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
+
+Project Source code: [TV Script Generation](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/tree/master/projects/project_tv_script_generation)
+
+### Creating a Sentiment Analysis Web App
+
+The goal of this project is to create a simple web page which a user can use to enter a movie review. The web page will then send the review off to our deployed model (AWS) which will predict the sentiment of the entered review.
+
+Project Source code: [Sentiment Analysis Web App](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/tree/master/projects/project_deployment_sentiment)
+
 
 ## Team Projects
 
