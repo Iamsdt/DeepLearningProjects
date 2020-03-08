@@ -24,6 +24,20 @@ Notebook: [Anim Generator Gan PyTorch](https://www.kaggle.com/iamsdt/anim-genera
 
 Server Code: [Server Code](https://github.com/Iamsdt/StickerGenerator/tree/master/server)
 
+### Multilabel Movie Poster Classification
+Multilabel image classification to classify movie poster and find appropriate movie genre with movie poster. For this project tensorflow framwork is used for deep learning model. The model is converted into tf lite to reduce final model size. This is a complete project with server side code and also fronted. To deploy deep learning model, flask is used and deployed into heroku server. By using Flutter framework frontend web app is developed and deployed into firebase.
+
+Project Source code: [Multilabel Movie Poster Classification](https://github.com/Iamsdt/MultilabelMoviePosterClassification)
+
+Notebook: [Click here](https://github.com/Iamsdt/MultilabelMoviePosterClassification/blob/master/notebook/Multilabel_Image.ipynb)
+
+Web App: [Movie Poster Classifier](https://flutter-web-3a021.firebaseapp.com/#/)
+
+Server Code: [Server code](https://github.com/Iamsdt/MultilabelMoviePosterClassification/tree/master/server)
+
+Flutter web code: [Flutter app](https://github.com/Iamsdt/MultilabelMoviePosterClassification/tree/master/app/web_app)
+
+
 ### Algorithm for a Dog Identification App
 
 The goal of this algorithm is to detect dog breed.  If this algorithm detects human, then it will be predicted which dog breed he or she looks like. Or, if detect dog, then it will be predicted dog breed. This project is a part of Udacity Deep Learning Nanodegree.
