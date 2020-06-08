@@ -125,6 +125,7 @@ Project Source code: [SG Fruit 360](https://github.com/Iamsdt/SPAIC_sg_fruit_360
 
 | Projects Name                           | Descriptions                                                 | Notebook Link                                                |
 | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Plant Pathology 2020 - FGVC7 | Top 37 % | [Notebook](https://www.kaggle.com/iamsdt/plants-tpu-classifications)|
 | Titanic: Machine Learning from Disaster | Predict survival number and complete with 0.76 accuracy      | [Notebook](https://www.kaggle.com/iamsdt/titanic-pytorch-iamsdt) |
 | Digit Recognizer                        | Recognize hand written digit, complete with 0.99717 accuracy | [Notebook](https://www.kaggle.com/iamsdt/pytorch-iamsdt)     |
 
