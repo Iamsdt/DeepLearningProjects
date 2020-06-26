@@ -2,7 +2,7 @@
 
 Here is collection of all the deep learning projects done my me.
 
-#### At a glace
+#### At a glance
 
 1. [Individual Projects](https://github.com/Iamsdt/DeepLearningProjects#individual-projects)
 
@@ -10,13 +10,11 @@ Here is collection of all the deep learning projects done my me.
 
 3. [Personal Notebooks](https://github.com/Iamsdt/DeepLearningProjects#personal-notebook)
 
-## Helper Class For Pytorch
-
 ## Individual Projects
 
-### Sticker Generator
+### 1. Sticker Generator
 
- An Android App where the user can generate a grid of sticker image, and the user can also save that image for further uses. In the backend **GAN** model is used to generate new Images and by using rest API those images bring to android app. 
+An Android App where the user can generate a grid of sticker image, and the user can also save that image for further uses. In the backend **GAN** model is used to generate new Images and by using rest API those images bring to android app. 
 
 Project Source code:  [Sticker Generator]( https://github.com/Iamsdt/StickerGenerator )
 
@@ -24,7 +22,7 @@ Notebook: [Anim Generator Gan PyTorch](https://www.kaggle.com/iamsdt/anim-genera
 
 Server Code: [Server Code](https://github.com/Iamsdt/StickerGenerator/tree/master/server)
 
-### Multilabel Movie Poster Classification
+### 2. Multilabel Movie Poster Classification
 Multilabel image classification to classify movie poster and find appropriate movie genre with movie poster. For this project tensorflow framwork is used for deep learning model. The model is converted into tf lite to reduce final model size. This is a complete project with server side code and also fronted. To deploy deep learning model, flask is used and deployed into heroku server. By using Flutter framework frontend web app is developed and deployed into firebase.
 
 Project Source code: [Multilabel Movie Poster Classification](https://github.com/Iamsdt/MultilabelMoviePosterClassification)
@@ -38,19 +36,19 @@ Server Code: [Server code](https://github.com/Iamsdt/MultilabelMoviePosterClassi
 Flutter web code: [Flutter app](https://github.com/Iamsdt/MultilabelMoviePosterClassification/tree/master/app/web_app)
 
 
-### Algorithm for a Dog Identification App
+### 3. Algorithm for a Dog Identification App
 
 The goal of this algorithm is to detect dog breed.  If this algorithm detects human, then it will be predicted which dog breed he or she looks like. Or, if detect dog, then it will be predicted dog breed. This project is a part of Udacity Deep Learning Nanodegree.
 
 Project: [Dog App](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/blob/master/CNN/Project2/dog_app.ipynb)
 
-### Predicting Bike-Sharing Patterns
+### 4. Predicting Bike-Sharing Patterns
 
 The goal of this project is to predict daily bike rental ridership. In this project, neural network was created from scratch using python and the used dataset contains the number of riders for each hour of each day from January 1, 2011, to December 31, 2012.
 
 Project: [Source code](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/tree/master/projects/first_neural_network-269560)
 
-### Bengali Digit Recognizer
+### 5. Bengali Digit Recognizer
 
 A web app where user can draw Bengali digit and the AI model can detect handwritten digit and predict the digit.
 
@@ -58,13 +56,13 @@ Project Source code: [DeployBNDegit](https://github.com/Iamsdt/DeployBNDegit)
 
 Notebook: [BN digit with pytorch](https://www.kaggle.com/iamsdt/bn-digit-with-pytorch)
 
-### TV Script Generation
+### 6. TV Script Generation
 
 In this project, Seinfeld TV scripts was generated using RNNs. You'll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network you'll build will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
 Project Source code: [TV Script Generation](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/tree/master/projects/project_tv_script_generation)
 
-### Creating a Sentiment Analysis Web App
+### 7. Creating a Sentiment Analysis Web App
 
 The goal of this project is to create a simple web page which a user can use to enter a movie review. The web page will then send the review off to our deployed model (AWS) which will predict the sentiment of the entered review.
 
@@ -73,7 +71,7 @@ Project Source code: [Sentiment Analysis Web App](https://github.com/Iamsdt/Udac
 
 ## Team Projects
 
-### Smog Detection Project
+### 1. Smog Detection Project
 
 Detect smog in the highway. This project was done as part of **Secure and Private AI Scholarship Challenge**. This project was selected as the second-best project.
 
@@ -83,7 +81,7 @@ Notebook: [Smog Detection](https://www.kaggle.com/berenice18/smogdetection)
 
 Project Source code: [Smog Detection](https://github.com/Iamsdt/SmogDetection-1)
 
-### SPAI-Chest-X-Ray-Pneumonia Project- Project Showcase
+### 2. SPAI-Chest-X-Ray-Pneumonia Project- Project Showcase
 
 Pneumonia detection using chest x ray. This project was done as part of **Secure and Private AI Scholarship Challenge**.
 
@@ -93,7 +91,7 @@ Notebook: [chest-x-ray-prediction](https://www.kaggle.com/iamsdt/chest-x-ray-pre
 
 Project source code: [Chest X Ray Pneumonia](https://github.com/Iamsdt/SPAI-Chest-X-Ray-Pneumonia-Project)
 
-### SG_AIMLPros Most
+### 3. SG_AIMLPros Most
 
 In this project we work with [Rice Disease](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset). And compare different CNN Architecture. This project was done as part of **Secure and Private AI Scholarship Challenge**.
 
@@ -103,7 +101,7 @@ Notebook (my version): [Notebook](https://www.kaggle.com/iamsdt/kernelcd66c7e01d
 
 Project Source code: [AIMLPros Most](https://github.com/Iamsdt/SG_AIMLPros-MOST)
 
-### Disease detection Project using Chest X-ray Database
+### 4. Disease detection Project using Chest X-ray Database
 
 Detect disease using Chest X-ray. This project was done as part of **Secure and Private AI Scholarship Challenge**.
 
@@ -111,7 +109,7 @@ Work on: **Data preprocessing team**.
 
 Project Source code: [Disease Detection Using chest Xray](https://github.com/Iamsdt/Disease-detection-using-chest-xrays)
 
-### Fruit Recognizer
+### 5. Fruit Recognizer
 
 Classify fruit images. This project was done as part of **Secure and Private AI Scholarship Challenge**.
 
@@ -123,11 +121,13 @@ Project Source code: [SG Fruit 360](https://github.com/Iamsdt/SPAIC_sg_fruit_360
 
 ### Kaggle Competitions
 
-| Projects Name                           | Descriptions                                                 | Notebook Link                                                |
-| --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Plant Pathology 2020 - FGVC7 | Top 37 % | [Notebook](https://www.kaggle.com/iamsdt/plants-tpu-classifications)|
-| Titanic: Machine Learning from Disaster | Predict survival number and complete with 0.76 accuracy      | [Notebook](https://www.kaggle.com/iamsdt/titanic-pytorch-iamsdt) |
-| Digit Recognizer                        | Recognize hand written digit, complete with 0.99717 accuracy | [Notebook](https://www.kaggle.com/iamsdt/pytorch-iamsdt)     |
+| Projects Name                                                | Descriptions                                                 | Notebook Link                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| NLP: EDA + Flair                                             | Top 12 %                                                     | [Notebook](https://www.kaggle.com/iamsdt/nlp-eda-flair)      |
+| Plant Pathology 2020 - FGVC7                                 | Top 37 %                                                     | [Notebook](https://www.kaggle.com/iamsdt/plants-tpu-classifications) |
+| Real or Not? NLP with Disaster Tweets: Disaster NLP: Keras BERT using TFHub | Top 12%                                                      | [Notebook](https://www.kaggle.com/iamsdt/disaster-nlp-keras-bert-using-tfhub) |
+| Titanic: Machine Learning from Disaster                      | Predict survival number and complete with 0.76 accuracy      | [Notebook](https://www.kaggle.com/iamsdt/titanic-pytorch-iamsdt) |
+| Digit Recognizer                                             | Recognize hand written digit, complete with 0.99717 accuracy | [Notebook](https://www.kaggle.com/iamsdt/pytorch-iamsdt)     |
 
 ### Image Classification
 
@@ -172,4 +172,6 @@ Project Source code: [SG Fruit 360](https://github.com/Iamsdt/SPAIC_sg_fruit_360
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------- |
 | Bengali Text Generator          | [Notebook](https://www.kaggle.com/iamsdt/kernel2bac1c8a68)   | Generate text from a book name "Himu" |
 | Character Level LSTM in PyTorch | [Notebook](https://github.com/Iamsdt/60daysofudacity/blob/master/day14/Character_Level_LSTM_in_PyTorch.ipynb) | Generate English text                 |
+
+### NLP
 
