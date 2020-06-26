@@ -48,7 +48,18 @@ The goal of this project is to predict daily bike rental ridership. In this proj
 
 Project: [Source code](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/tree/master/projects/first_neural_network-269560)
 
-### 5. Bengali Digit Recognizer
+### 5. Speech Recognition with Neural Networks
+
+The goal of this project to build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline! The completed pipeline will accept raw audio as input and return a predicted transcription of the spoken language. In this project, different types of architecture are used to find out the best model for this dataset. They are -
+1. RNN
+2. RNN + TimeDistributed Dense
+3. CNN + RNN + TimeDistributed Dense
+4. Deeper RNN + TimeDistributed Dense
+5. Bidirectional RNN + TimeDistributed Dense
+
+Notebook Link: [Speech Recognition with Neural Networks](https://github.com/Iamsdt/NLP-ND/blob/master/DNN%20Speech%20Recognizer/vui_notebook.ipynb)
+
+### 6. Bengali Digit Recognizer
 
 A web app where user can draw Bengali digit and the AI model can detect handwritten digit and predict the digit.
 
@@ -56,13 +67,13 @@ Project Source code: [DeployBNDegit](https://github.com/Iamsdt/DeployBNDegit)
 
 Notebook: [BN digit with pytorch](https://www.kaggle.com/iamsdt/bn-digit-with-pytorch)
 
-### 6. TV Script Generation
+### 7. TV Script Generation
 
 In this project, Seinfeld TV scripts was generated using RNNs. You'll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network you'll build will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
 
 Project Source code: [TV Script Generation](https://github.com/Iamsdt/UdacityDeepLearningNanodegree/tree/master/projects/project_tv_script_generation)
 
-### 7. Creating a Sentiment Analysis Web App
+### 8. Creating a Sentiment Analysis Web App
 
 The goal of this project is to create a simple web page which a user can use to enter a movie review. The web page will then send the review off to our deployed model (AWS) which will predict the sentiment of the entered review.
 
@@ -168,10 +179,24 @@ Project Source code: [SG Fruit 360](https://github.com/Iamsdt/SPAIC_sg_fruit_360
 
 ### RNN
 
-| Project Name                    | Notebook                                                     | Description                           |
-| ------------------------------- | ------------------------------------------------------------ | ------------------------------------- |
-| Bengali Text Generator          | [Notebook](https://www.kaggle.com/iamsdt/kernel2bac1c8a68)   | Generate text from a book name "Himu" |
-| Character Level LSTM in PyTorch | [Notebook](https://github.com/Iamsdt/60daysofudacity/blob/master/day14/Character_Level_LSTM_in_PyTorch.ipynb) | Generate English text                 |
+| Project Name                         | Notebook                                                     | Description                                                  |
+| ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Sentiment Analysis using RNN         | [Notebook](https://github.com/Iamsdt/DeepLearningProjects/blob/master/notebook/Sentiment_RNN_Exercise.ipynb) | Sentiment Analysis on Movie Review Dataset                   |
+| Bengali Text Generator               | [Notebook](https://www.kaggle.com/iamsdt/kernel2bac1c8a68)   | Generate text from a book name "Himu"                        |
+| Natural Language Processing with RNN | [Notebook](https://github.com/Iamsdt/DeepLearningProjects/blob/master/notebook/Natural_Language_Processing_with_RNNs_.ipynb) | Explore Bag of words, word embedding, RNN, LSTM, and Sentiment Analysis |
+| Character Level LSTM in PyTorch      | [Notebook](https://github.com/Iamsdt/60daysofudacity/blob/master/day14/Character_Level_LSTM_in_PyTorch.ipynb) | Generate English text                                        |
 
 ### NLP
+
+| Notebook Name                      | Link                                                         | Description                                                  |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Flair NER with 5M tokens           | [Notebook](https://github.com/Iamsdt/DeepLearningProjects/blob/master/notebook/Flair_with_5M_token.ipynb) | NER using Flair library on 5M word tokens                    |
+| Recommendation                     | [Notebook](https://github.com/Iamsdt/NLP-Pra/blob/master/TF-IDF%20and%20similarity%20scores%20and%20Recommendation.ipynb) | Recommendation on Ted talk and Movie using sklean (TF-IDF)   |
+| Resume Analysis                    | [Notebook](https://github.com/Iamsdt/NLP-Pra/blob/master/Resume%20Analysis.ipynb) | NER on Resume Datasets                                       |
+| Spacy NER                          | [Notebook](https://github.com/Iamsdt/NLP-Pra/blob/master/Text%20preprocessing%2C%20POS%20tagging%20and%20NER.ipynb) | Spacy: NER, POS, Text preprocessing                          |
+| Spacy Named Extraction             | [Notebook](https://github.com/Iamsdt/DeepLearningProjects/blob/master/notebook/Named_extraction.ipynb) | Using spacy library, custom NER model is trained             |
+| Text classification with pytorch   | [Notebook](https://github.com/Iamsdt/DeepLearningProjects/blob/master/notebook/Text_classification_with_pytorch.ipynb) | Text classification on TREC dataset, using Pytorch           |
+| Sentiment Analysis with TF         | [Notebook](https://github.com/Iamsdt/DeepLearningProjects/blob/master/notebook/TensorflowSentimentAnalysis.ipynb) | Sentiment analysis using Tensorflow                          |
+| Text Classification with TF on TPU | [Notebook](https://github.com/Iamsdt/DeepLearningProjects/blob/master/notebook/TextClassification_TF_with_TPU.ipynb) | Text classification using Tensorflow on Amazon Book review dataset |
+|                                    |                                                              |                                                              |
 
